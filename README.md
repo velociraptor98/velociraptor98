@@ -9,3 +9,4 @@ I am a game developer working on mostly game dev related stuff along with a litt
 - 💬 Ask me about Anything.
 - 📫 How to reach me:[My Website](https://kunalsingh.tech/)
 - ⚡ Fun fact:You can eat coffee cherries as a food.
+- ![](https://komarev.com/ghpvc/?username=velociraptor98&style=flat-square)
